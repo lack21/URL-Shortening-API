@@ -394,7 +394,7 @@ body {
     width: 90% !important;
     flex-direction: column;
     left: 50%;
-    top: -50vh;
+    top: -75vh;
     z-index: 2;
     background-color: hsl(257, 27%, 26%);
     transform: translateX(-50%);
