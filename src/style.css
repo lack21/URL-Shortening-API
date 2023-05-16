@@ -258,6 +258,7 @@ body {
   width: 100%;
   padding: 3rem;
   background-image: url("assets/bg-boost-desktop.svg");
+  background-size: cover;
   background-color: hsl(257, 27%, 26%);
   text-align: center;
 }
